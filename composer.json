@@ -1,0 +1,13 @@
+{
+    "name": "hautelook/phpass",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Korvin Szanto",
+            "email": "me@kor.vin"
+        }
+    ],
+    "require": {
+        "concrete5/phpass-compat": "^1.0"
+    }
+}
